@@ -1,4 +1,4 @@
-# selenium-tutorials-by-tayyab
+# selenium-tutorials-by-tayyab-mohammed
 
 
 Welcome to the Selenium Tutorials by Tayyab repository! This repository aims to provide comprehensive tutorials on Selenium WebDriver along with code examples and detailed explanations. Whether you are a beginner or a professional, you will find this repository useful for learning and revising Selenium concepts.
